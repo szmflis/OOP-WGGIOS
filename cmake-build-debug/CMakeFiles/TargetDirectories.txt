@@ -1,0 +1,3 @@
+C:/Users/szymo/Desktop/FlisSzymon-etap1/cmake-build-debug/CMakeFiles/FlisSzymon-etap1.dir
+C:/Users/szymo/Desktop/FlisSzymon-etap1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szymo/Desktop/FlisSzymon-etap1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

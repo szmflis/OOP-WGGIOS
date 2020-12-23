@@ -1,0 +1,13 @@
+Sposób realizacji projektu
+
+Utworzyłem dwie klasy - Towar i Magazyn.
+Towar zna swoją nazwe, id, oraz ilość.
+
+Magazyn ma jedno pole std::vector wypełnione obiektami klasy Towar,
+oraz zawiera funkcje wykonujące na nich wszystkie manipulacje tj. inicjacja
+nowego towaru, dodanie ilosci tego towaru, odebranie ilosci towaru.
+
+Sposób kompilacji na linuxie:
+
+g++ main.cpp Towar.cpp Magazyn.cpp -o etap1
+./etap1
